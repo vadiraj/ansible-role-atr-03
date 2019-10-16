@@ -1,0 +1,19 @@
+galaxy_info:
+  author: vadi_ksdba
+  description: created this only for testing
+  company: anonymous
+  license: Apache v2
+  min_ansible_version: 2.4
+  platforms:
+  - name: Fedora
+    versions:
+      - all
+  - name: Ubuntu
+    versions:
+      - all
+  cloud_platforms:
+    - Google
+  galaxy_tags:
+    - container
+    - cluster
+dependencies: []
